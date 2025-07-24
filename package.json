@@ -1,0 +1,10 @@
+{
+      "name": "com.gt.audio",
+      "displayName": "GT Audio",
+      "version": "1.0.0",
+      "description": "Complete audio manager for Unity games with music, SFX, and volume control",
+      "author": {
+        "name": "Telman Gurgenyan",
+        "email": "tgurgenyan@gmil.com"
+      }
+    }
